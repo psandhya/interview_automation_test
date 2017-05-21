@@ -43,8 +43,12 @@ Example:
 
 * i forked source repository and used git branching to make changes to source code 
     
+## Reporting
 
-## *******************************************************************************************************
+* cucumber reporting is used to generate html test reports and when we run tests by default reports will be stored in report.html in root folder [sample html reports can be found in reports folder]
+
+
+## ******************************************************
 
 
 # Source readme
